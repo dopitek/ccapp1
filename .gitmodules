@@ -1,3 +1,4 @@
-[submodule "ccsharedlib"]
-	path = ccsharedlib
-	url = C:\\Users\\Mariola\\Desktop\\ccsharedlib
+
+[submodule "test"]
+	path = test
+	url = https://github.com/dopitek/ccsharedlib.git
